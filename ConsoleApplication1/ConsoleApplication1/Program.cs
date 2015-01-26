@@ -8,9 +8,14 @@ namespace ConsoleApplication1
 {
     class Program
     {
+                static void test()
+        {
+            Console.WriteLine("hello");
+        }
         static void Main(string[] args)
         {
             //hello
+
         }
     }
 }
